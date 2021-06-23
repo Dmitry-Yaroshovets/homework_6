@@ -933,6 +933,7 @@ header {
   background-color: var(--hero-footer-color);
   margin-top: 20px;
   margin-right: 12px;
+  padding: 15px 16px;
   color: rgba(255, 255, 255, 0.3);
   border: 1px solid rgba(255, 255, 255, 0.3);
   box-sizing: border-box;
@@ -940,9 +941,6 @@ header {
   outline: none;
 }
 
-.subscription-mail::placeholder {
-  margin-left: 16px;
-}
 .subscription-btn {
   position: relative;
   margin-top: 20px;
